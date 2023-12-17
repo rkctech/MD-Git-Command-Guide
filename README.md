@@ -1,7 +1,7 @@
-# Git-Command-Guide
-All use case available of Git &amp; Github
+# About Mark-down file & Git-Command-Guide 
+All use case available of Git &amp; Github and way to write md file.
 
-
+# About Mark-Down File
 # Heading 1
 ## Heading 2
 ### Heading 3
