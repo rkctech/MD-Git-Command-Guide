@@ -70,7 +70,11 @@ git cofig --list
 ```git
 git clone <- repo http link ->
 ```
-
+## Create repo using init in empty folder
+```
+git init
+git remote add origin <- link ->
+```
 make some changes (modefied => changed) or create new file (untracked)
 ```git
 git status
@@ -106,7 +110,7 @@ Output :- Unmodified (Unchanged) or up to date
 ### Push Code on Github
 
 ```
-git push origin <branch>
+git push -u origin <branch_name>
 ```
 ### Create new branch
 ```bash
