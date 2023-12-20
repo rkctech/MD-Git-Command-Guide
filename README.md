@@ -1,57 +1,4 @@
-# About Mark-down file & Git-Command-Guide 
-All use case available of Git &amp; Github and way to write md file.
-
-# About Mark-Down File
-# Heading 1
-## Heading 2
-### Heading 3
-
-`text red ` 
-
-*Italic* or _Italic_
-
-**Bold** or __Bold__
-
-* Item 1
-* Item 2
-
-1. First item
-2. Second item
-
-[Google](https://www.google.com)
-
-![Alt Text](image-url)
-
----
-or
-***
-
-| Header 1 | Header 2 |
-| -------- | -------- |
-| Content 1| Content 2|
-
-$$ E = mc^2 $$
-
-# My Markdown File
-
-This is a paragraph of text in my Markdown file.
-
-## Code Example
-
-Here is a code block:
-
-```javascript
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
-
-greet("World");
-
-```
-```python
-print("hello world")
-```
-# Git Comonds
+# Git-Command-Guide 
 ## Git
 Version Control System is a tools that to track changes in code.<br>
 `Git is a Version Control System `
@@ -217,6 +164,58 @@ git reset --hard <- commit hash ->
 ### Fork
 A fork is a new repo that share code and visibility settings with the original "upstream" repo.<br>
 `Fork is a rough copy`
+
+# How to write .md file in short
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+`text red ` 
+
+*Italic* or _Italic_
+
+**Bold** or __Bold__
+
+* Item 1
+* Item 2
+
+1. First item
+2. Second item
+
+[Google](https://www.google.com)
+
+![Alt Text](image-url)
+
+---
+or
+***
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Content 1| Content 2|
+
+$$ E = mc^2 $$
+
+# My Markdown File
+
+This is a paragraph of text in my Markdown file.
+
+## Code Example
+
+Here is a code block:
+
+```javascript
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+
+greet("World");
+
+```
+```python
+print("hello world")
+```
 
 
 
