@@ -70,7 +70,8 @@ git cofig --list
 ```git
 git clone <- repo http link ->
 ```
-## Create repo using init in empty folder
+## Create repo using init command 
+Whenever we want push our folder work in github then we use these commands given below.
 ```
 git init
 git remote add origin <- link ->
