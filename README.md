@@ -70,11 +70,22 @@ git cofig --list
 ```git
 git clone <- repo http link ->
 ```
-## Create repo using init command 
-Whenever we want push our folder work in github then we use these commands given below.
+## Create a new repository on the command line 
+Whenever we want push our folder work in github then we use some steps & these commands given below.
+- create a new repo
+- give repo name
+- put discripton
+- select repo type (public || private)
+- initialize the repo with default setting
+- click on create repository btn
+- now follow these given command on your terminal
 ```
 git init
-git remote add origin <- link ->
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin <- repo url->
+git push -u origin main
 ```
 make some changes (modefied => changed) or create new file (untracked)
 ```git
