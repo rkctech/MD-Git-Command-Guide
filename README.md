@@ -65,11 +65,6 @@ git config --global user.name "myName"
 git config --global user.email "email@gmail.com"
 git cofig --list
 ```
-## Create repo using clone comond in git
-
-```git
-git clone <- repo http link ->
-```
 ## Create a new repository on the command line 
 Whenever we want push our folder work in github then we use some steps & these commands given below.
 - create a new repo
@@ -87,7 +82,12 @@ git branch -M main
 git remote add origin <- repo url->
 git push -u origin main
 ```
-make some changes (modefied => changed) or create new file (untracked)
+
+## Update repo using clone comond in git
+```git
+git clone <- repo http link ->
+```
+### Make some changes (modefied => changed) or create new file (untracked)
 ```git
 git status
 ```
