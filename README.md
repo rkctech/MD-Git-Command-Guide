@@ -10,7 +10,7 @@ Website that allow developer to store and manage their code using Git
 ```git 
 git config --global user.name "myName"
 git config --global user.email "email@gmail.com"
-git cofig --list
+git config --list
 ```
 ## Create a new repository on the command line 
 Whenever we want push our folder work in github then we use some steps & these commands given below.
